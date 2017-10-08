@@ -2,10 +2,10 @@
     $var1=5; 
     $var2=4; 
 
-    $suma=$var1+$var2; 
-    $resta=$var1-$var2; 
-    $multiplicacion=$var1*$var2; 
-    $division=$var1/$var2; 
+    $suma; 
+    $resta; 
+    $multiplicacion; 
+    $division; 
 
     echo "resultado sumar: ".$suma ; 
     echo "<br>"; 
