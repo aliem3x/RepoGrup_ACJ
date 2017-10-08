@@ -16,7 +16,6 @@
     echo "resultado division: ".$division; 
 
     //Cristina_García
-    function sumar($var1,$var2){
-    return $var1+$var2;
+    $multiplicacion=$var1*$var2;
     }
 ?>
