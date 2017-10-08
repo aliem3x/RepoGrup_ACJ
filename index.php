@@ -2,7 +2,7 @@
     $var1=5; 
     $var2=4; 
 
-    $suma=$var1+$var2; 
+    $suma=$var1+$var2; //AliEM 
     $resta; 
     $multiplicacion; 
     $division; 
