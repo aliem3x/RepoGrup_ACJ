@@ -17,5 +17,5 @@
 
     //Cristina_García
     $multiplicacion=$var1*$var2;
-    }
+
 ?>
