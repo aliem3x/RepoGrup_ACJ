@@ -2,7 +2,7 @@
     $var1=5; 
     $var2=4; 
 
-    $suma; 
+    $suma=$var1+$var2; 
     $resta; 
     $multiplicacion; 
     $division; 
