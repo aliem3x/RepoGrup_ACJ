@@ -18,4 +18,7 @@
     //Cristina_García
     $multiplicacion=$var1*$var2;
 
+    //Joy Castro
+     $resta=$var1-$var2;
+
 ?>
